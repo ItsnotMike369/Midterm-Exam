@@ -15,6 +15,4 @@ Midterm-Exam
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
 |     |  └─ js
 |     |     └─ script.js
-|     └─ index.html
-└─ index.html
 └─ readme.md
