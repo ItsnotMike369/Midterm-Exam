@@ -1,0 +1,91 @@
+header{
+    background: #0a3a4a;
+    padding: 20px 0;
+    color: white;
+
+}
+
+body{
+    font-family: Arial, sans-serif ;
+    margin: 0;
+    padding: 0;
+    background:#f3f3f3;
+}
+nav ul li{
+    margin: 0 15px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.costume demo{
+    background: #ffa726;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+main{
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to right), #,#;
+    color: black;
+}
+
+.intro h1{
+    font-size: 2.5em;
+    margin: 0;
+}
+
+interagation-logos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.interagation-logo img{
+    width: 100px;
+    margin: 0 20px;
+}
+
+.connector{
+    width: 60px;
+    height: 2px;
+    background: white;
+}
+
+.description{
+    font-size: 0.9em;
+    line-height: 1.5;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.request-demo{
+    background: #ffa726;
+    border: none;
+    padding: 15px 30px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.intergrations{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.interagation img{
+    width: 100px;
+    margin: 20px;
+}
